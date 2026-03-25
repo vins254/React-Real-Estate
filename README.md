@@ -1,16 +1,64 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Real Estate Website (React JS)
 
-Currently, two official plugins are available:
+Real estate businesses need a functional, mobile-responsive, and visually engaging online presence to showcase properties, build trust, and efficiently collect customer inquiries. This project addresses the need for a modern website that works seamlessly on all devices while ensuring inquiries are directly sent to the business owner's email.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🔗 Live Demo Link
+[![Real Estate website](https://img.shields.io/badge/Real_Estate_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://react-real-estate-orcin.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Features
+
+- Responsive design (mobile + desktop)
+- Animated UI using Framer Motion
+- Contact form with Web3Forms integration
+- Toast notifications using React Toastify
+- Smooth navigation and clean UI
+
+## Tech Stack
+- React JS
+- Tailwind CSS
+- Framer Motion
+- Web3Forms
+- React Toastify
+- Vite
+## Screenshots
+### Hero Section 
+
+![Hero_section](https://github.com/vins254/React-Real-Estate/blob/be7bd5af9d9762af8145b46009fb4c0de226fe28/Screenshots/Hero_section.png)
+
+### About Section 
+
+![App Screenshot](https://github.com/vins254/React-Real-Estate/blob/be7bd5af9d9762af8145b46009fb4c0de226fe28/Screenshots/About_section.png)
+
+### Projects Section 
+
+![App Screenshot](https://github.com/vins254/React-Real-Estate/blob/be7bd5af9d9762af8145b46009fb4c0de226fe28/Screenshots/Projects_section.png)
+
+### Testimonials Section 
+
+![App Screenshot](https://github.com/vins254/React-Real-Estate/blob/be7bd5af9d9762af8145b46009fb4c0de226fe28/Screenshots/Testimonials_section.png)
+
+### Contact Section 
+
+![App Screenshot](https://github.com/vins254/React-Real-Estate/blob/be7bd5af9d9762af8145b46009fb4c0de226fe28/Screenshots/Contact_section.png)
+
+### Footer Section 
+
+![App Screenshot](https://github.com/vins254/React-Real-Estate/blob/be7bd5af9d9762af8145b46009fb4c0de226fe28/Screenshots/Footer_section.png)
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone https://github.com/vins254/React-Real-Estate.git
+  cd React-Real-Estate
+  npm install 
+  npm run dev
+```
+    
